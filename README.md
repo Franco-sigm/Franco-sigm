@@ -1,16 +1,14 @@
-## Hi there 👋
+ Hola, soy Franco
 
-<!--
-**Franco-sigm/Franco-sigm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador en formación con experiencia en proyectos de **aplicaciones de escritorio, web y móviles**.  
+Actualmente estudio **Técnico en Análisis y Programación Computacional**, mientras desarrollo proyectos prácticos para fortalecer mi portafolio.  
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías
+- Python (Tkinter, CustomTkinter, MySQL)  
+- Java (JDBC, MVC, JasperReports)  
+- Desarrollo web (HTML, CSS, Bulma)  
+- Android (Kotlin, Android Studio)  
+- Control de versiones con Git y GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivo
+Seguir creciendo como programador y crear soluciones tecnológicas que generen impacto real para usuarios y empresas.  

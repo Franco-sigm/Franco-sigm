@@ -4,7 +4,7 @@ Actualmente estudio **Técnico en Análisis y Programación Computacional**, mie
 Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,linux,vscode,wsl" />
 </p>
 
 

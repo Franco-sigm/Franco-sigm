@@ -1,5 +1,5 @@
  Soy Franco  
-Actualmente estudio **Técnico en Análisis y Programación Computacional**, mientras desarrollo proyectos prácticos para fortalecer mi portfolio. Dispuesto a desafios nuevos, si deseas colaborar no dudes en escribirme!!
+Actualmente estudio **Técnico en Análisis y Programación Computacional**, mientras desarrollo proyectos prácticos para fortalecer mi portfolio. Dispuesto a desafios nuevos, si deseas colaborar no dudes en escribirme :)!!
 
 
 

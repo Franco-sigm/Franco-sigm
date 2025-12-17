@@ -1,5 +1,5 @@
  Soy Franco  
-Actualmente estoy terminando la carrera de  **Técnico en Análisis y Programación Computacional**, mientras desarrollo proyectos prácticos para fortalecer mi portfolio:)!!
+Actualmente estoy terminando la carrera de  **Técnico en Análisis y Programación Computacional**, mientras desarrollo proyectos prácticos para fortalecer mi portfolio :)
 
 
 

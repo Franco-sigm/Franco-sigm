@@ -1,8 +1,9 @@
-Soy Técnico en Análisis y Programación Computacional y actualmente estudiante de Ingeniería en Informática. Mi día a día gira en torno a la construcción de soluciones digitales desde cero, especializándome en el desarrollo de productos SaaS y privados que resuelvan problemas reales.
 
-Me apasiona el ciclo de vida completo del desarrollo de software: desde el diseño de la arquitectura hasta la implementación. En mi flujo de trabajo, integro herramientas de Inteligencia Artificial para optimizar procesos, mejorar la calidad del código y acelerar los tiempos de entrega. Me considero un entusiasta del desarrollo independiente, disfrutando el desafío de llevar un producto desde la idea inicial hasta una plataforma funcional, robusta, segura, escalable y lista para producción.
+I'm a Computer Analysis and Programming Technician and currently a Computer Engineering student. My day-to-day revolves around building digital solutions from scratch, specializing in the development of SaaS and private products that solve real problems.
 
-Siempre estoy buscando aprender nuevas tecnologías y experimentar con formas más eficientes de trabajar. Si quieres intercambiar ideas sobre desarrollo, IA o proyectos interesantes, ¡hablemos!
+I'm passionate about the full software development lifecycle: from architecture design to implementation. In my workflow, I integrate Artificial Intelligence tools to optimize processes, improve code quality, and accelerate delivery times. I consider myself an indie development enthusiast, enjoying the challenge of taking a product from the initial idea to a functional, robust, secure, scalable, and production-ready platform.
+
+I'm always looking to learn new technologies and experiment with more efficient ways of working. If you want to exchange ideas about development, AI, or interesting projects, let's talk!
 
 
 <p align="left">
